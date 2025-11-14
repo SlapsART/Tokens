@@ -2130,7 +2130,7 @@
         "text": {
           "py": {
             "$type": "number",
-            "$value": "{0,5}"
+            "$value": 4
           },
           "px": {
             "$type": "number",
